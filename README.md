@@ -6,26 +6,31 @@
 
 ## Мой опыт
 
+### 🎯 Documents Workflow
+Заказная таска на создание внутреннего документооборота.
+
+**Ссылка:** [Перейти к репозиторию](https://github.com/xxxXalleNxxx/itq-group-task)
+
 ### 🎯 Outbox-Microservices-App
 Микросервисная система бронирования с Outbox Pattern для гарантированной отправки уведомлений через Kafka.
 
-**Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/outbox-microservices-project)
+**Ссылка:** [Перейти к репозиторию](https://github.com/xxxXalleNxxx/outbox-microservices-project)
 
 ### 🎯 SAGA-Microservices-app
 Микросервисная система заказов с реализацией Saga Pattern для управления распределенными транзакциями через событийный подход (choreography).
 
-**Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/saga-microservices-app)
+**Ссылка:** [Перейти к репозиторию](https://github.com/xxxXalleNxxx/saga-microservices-app)
 
 ### 🎯 Bank-REST-API
 Система управления банковскими картами с ролевой моделью доступа и безопасными транзакциями.
 
-**Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/bank-rest-arapov)
+**Ссылка:** [Перейти к репозиторию](https://github.com/xxxXalleNxxx/bank-rest-arapov)
 
 ### 🎯 ShowRoom
 API с аутентификацией, логикой покупок/продаж. 
 Кастомные запросы для решения N+1.
 
-**Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/ShowRoom-API)
+**Ссылка:** [Перейти к репозиторию](https://github.com/xxxXalleNxxx/ShowRoom-API)
 
 ---
 
@@ -33,4 +38,4 @@ API с аутентификацией, логикой покупок/прода�
 Небольшой telegram бот с логикой оформления заказов.
 Создан тестовый Telegram Payment Invoice.
 
-**Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/car-studio-16-tg-bot)
+**Ссылка:** [Перейти к репозиторию](https://github.com/xxxXalleNxxx/car-studio-16-tg-bot)

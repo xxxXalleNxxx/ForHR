@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 Мои проекты
+## Мой опыт
 
 ### 🎯 Outbox-Microservices-App
 Микросервисная система бронирования с Outbox Pattern для гарантированной отправки уведомлений через Kafka.
 
 **Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/outbox-microservices-project)
 
-### 🎯SAGA-Microservices-app
+### 🎯 SAGA-Microservices-app
 Микросервисная система заказов с реализацией Saga Pattern для управления распределенными транзакциями через событийный подход (choreography).
 
 **Ссылка:** [Перейти к проекту](https://github.com/xxxXalleNxxx/saga-microservices-app)
